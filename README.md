@@ -48,13 +48,11 @@ For this work, I intend to take advantage of the following publicly available da
 
 The code, text of the repository will be governed by the MIT License to be included in the [LICENSE file](https://github.com/sumanbhagavathula/data-512-finalproject/blob/master/LICENSE)
 
-The wikipedia articles data is available under the [Creative Commons BY](https://creativecommons.org/licenses/by/2.0/)
-The ORES scores data is available under the [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
-The PRB data is copyrighted and is not available and hence not included with this repo. You may choose to download this data directly from source that is mentioned in the Data Provenance section below.
+The datasets from City of Seattle's Open Data Initiative website (and may be included in this repository) as well as any future derivative work and data in this project repository is available under the [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/). 
 
-More information on the Open Data Initiative can be viewed at the City of Seattle's Open Data Initiative [Information page](http://www.seattle.gov/tech/initiatives/open-data), the [Warranty information page](https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/), the [policy page](http://www.seattle.gov/Documents/Departments/SeattleGovPortals/CityServices/OpenDataPolicyV1.pdf) and the [privacy page](http://www.seattle.gov/tech/initiatives/privacy)
+More information on this can be viewed at the City of Seattle's Open Data Initiative [Information page](http://www.seattle.gov/tech/initiatives/open-data), the [Warranty information page](https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/), the [policy page](http://www.seattle.gov/Documents/Departments/SeattleGovPortals/CityServices/OpenDataPolicyV1.pdf) and the [privacy page](http://www.seattle.gov/tech/initiatives/privacy)
 
-<b>[Required Disclaimer by City of Seattle (see "Source Data" section):](https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/)</b>
+<b>In addition, the City of Seattle requires the following disclaimer be pasted into any derivative works that use their datasets (see:  [City of Seattle's Open Data Initiative Policy page, "Source Data" section](https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/) )</b>
 
 The data made available here has been modified for use from its original source, which is the City of Seattle. Neither the City of Seattle nor the Office of the Chief Technology Officer (OCTO) makes any claims as to the completeness, timeliness, accuracy or content of any data contained in this application; makes any representation of any kind, including, but not limited to, warranty of the accuracy or fitness for a particular use; nor are any such warranties to be implied or inferred with respect to the information or data furnished herein. The data is subject to change as modifications and updates are complete. It is understood that the information contained in the web feed is being used at one's own risk.
 
