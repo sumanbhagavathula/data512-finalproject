@@ -86,7 +86,7 @@ The source code will be located in the [github repo source code file](https://gi
 
 # Dependencies
 
-The City of Seattle mentions on their [Data Policy page ("see Right to Discontinue Feeds") section](https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/) that they do reserve the right to discontinue or provide any or all of the data feeds at any time. 
+The City of Seattle mentions on their [Data Policy page ("see Right to Discontinue Feeds") section](https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/) that they do reserve the right to discontinue or provide any or all of the data feeds at any time. This implies that my project's research work could be impacted if the any or all of the datasets mentioned in this Repository are taken down. If that happens, I might need to abandon this research work and take up some other problem statement. 
 
 
 # Acknowledgements
